@@ -15,6 +15,7 @@ function addHead() {
           href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined"
           rel="stylesheet"
         />
+        <link rel="stylesheet" href="assets/css/main.css">
     `;
 
     // Adiciona o cabeçalho na Tag <head>
@@ -39,8 +40,8 @@ function addHeader() {
         </ul>
     </div>
 
-    <header>
-        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <header id="menu-principal">
+        <nav class="navbar navbar-expand-lg">
             <div class="container-fluid">
                 <a class="navbar-brand" href="#">Navbar</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
