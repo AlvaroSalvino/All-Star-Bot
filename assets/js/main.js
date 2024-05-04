@@ -23,11 +23,11 @@ function addSection() {
                     preserveAspectRatio="xMidYMid slice" focusable="false">
                     <title>Placeholder</title>
                     <rect width="100%" height="100%" fill="#777"></rect><text x="50%" y="50%" fill="#555"
-                        dy=".3em">First slide</text>
+                        dy=".3em">Sua foto aqui</text>
                 </svg>
                 <!-- <img src="..." class="d-block w-100" alt="..."> -->
                 <div class="carousel-caption d-none d-md-block">
-                    <h5>VENHA SER "INSTITUIÇÃO"!</h5>
+                    <h5>VENHA SER (INSTITUIÇÃO)!</h5>
                     <p>Construa seu futuro aqui.</p>
                 </div>
             </div>
@@ -37,12 +37,12 @@ function addSection() {
                     preserveAspectRatio="xMidYMid slice" focusable="false">
                     <title>Placeholder</title>
                     <rect width="100%" height="100%" fill="#666"></rect><text x="50%" y="50%" fill="#444"
-                        dy=".3em">Second slide</text>
+                        dy=".3em">Sua foto aqui</text>
                 </svg>
                 <!-- <img src="..." class="d-block w-100" alt="..."> -->
                 <div class="carousel-caption d-none d-md-block">
-                    <h5>Second slide label</h5>
-                    <p>Some representative placeholder content for the second slide.</p>
+                    <h5>PLANO DE ENSINO</h5>
+                    <p>Conheça nosso plano de ensino.</p>
                 </div>
             </div>
             <div class="carousel-item">
@@ -51,12 +51,12 @@ function addSection() {
                     preserveAspectRatio="xMidYMid slice" focusable="false">
                     <title>Placeholder</title>
                     <rect width="100%" height="100%" fill="#555"></rect><text x="50%" y="50%" fill="#333"
-                        dy=".3em">Third slide</text>
+                        dy=".3em">Sua foto aqui</text>
                 </svg>
                 <!-- <img src="..." class="d-block w-100" alt="..."> -->
                 <div class="carousel-caption d-none d-md-block">
-                    <h5>Third slide label</h5>
-                    <p>Some representative placeholder content for the third slide.</p>
+                    <h5>SEMANA DO ALUNO</h5>
+                    <p>Vem aí a semana do aluno!</p>
                 </div>
             </div>
         </div>
@@ -74,64 +74,59 @@ function addSection() {
 
     <!-- CARDS E INFORMATIVOS -->
 
-    <section>
-        <div>
-            <div class="row row-cols-1 row-cols-md-2 g-4">
-                <div class="col">
-                    <div class="card">
-                        <img src="..." class="card-img-top" alt="...">
-                        <div class="card-body">
-                            <h5 class="card-title">Card title</h5>
-                            <p class="card-text">This is a longer card with supporting text below as a natural lead-in to
-                                additional content. This content is a little bit longer.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col">
-                    <div class="card">
-                        <img src="..." class="card-img-top" alt="...">
-                        <div class="card-body">
-                            <h5 class="card-title">Card title</h5>
-                            <p class="card-text">This is a longer card with supporting text below as a natural lead-in to
-                                additional content. This content is a little bit longer.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col">
-                    <div class="card">
-                        <img src="..." class="card-img-top" alt="...">
-                        <div class="card-body">
-                            <h5 class="card-title">Card title</h5>
-                            <p class="card-text">This is a longer card with supporting text below as a natural lead-in to
-                                additional content.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col">
-                    <div class="card">
-                        <img src="..." class="card-img-top" alt="...">
-                        <div class="card-body">
-                            <h5 class="card-title">Card title</h5>
-                            <p class="card-text">This is a longer card with supporting text below as a natural lead-in to
-                                additional content. This content is a little bit longer.</p>
-                        </div>
-                    </div>
+<section style="padding-top: 5rem; padding-bottom: 5rem;" class="container">
+    <div class="cards-e-infomativos-geral">
+        <div class="cards">
+            <div class="card">
+                <img src="..." class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">Módulos</h5>
+                    <p class="card-text">This is a longer card with supporting text below as a natural lead-in to
+                        additional content. This content is a little bit longer.</p>
                 </div>
             </div>
-        </div>
-        <div>
-            <h1>Informativo Institucional</h1>
-            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Illum sit molestias libero, assumenda nobis harum
-                facere incidunt eos maiores aperiam repellendus delectus id quia. Deleniti, exercitationem. Dolor aut eligendi
-                illum?
-            </p>
-        </div>
-    </section>
-    <section>
-        <div></div>
-        <div></div>
-        <div></div>
-    </section>
+            <div class="card">
+                <img src="..." class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">Vestibular</h5>
+                    <p class="card-text">This is a longer card with supporting text below as a natural lead-in to
+                        additional content. This content is a little bit longer.</p>
+                </div>
+            </div>
+            <div class="card">
+                <img src="..." class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">Enem</h5>
+                    <p class="card-text">This is a longer card with supporting text below as a natural lead-in to
+                        additional content.</p>
+                </div>
+            </div>
+            <div class="card">
+                <img src="..." class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">Preparatórios</h5>
+                    <p class="card-text">This is a longer card with supporting text below as a natural lead-in to
+                        additional content. This content is a little bit longer.</p>
+                </div>
+            </div>
+            </div>
+            <div class="informativo-e-institucional">
+                <h1>Informativo Institucional</h1>
+                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Illum sit molestias libero, assumenda nobis
+                    harum
+                    facere incidunt eos maiores aperiam repellendus delectus id quia. Deleniti, exercitationem. Dolor aut
+                    eligendi
+                    illum?
+                </p>
+            </div>
+    </div>
+
+</section>
+<section>
+    <div></div>
+    <div></div>
+    <div></div>
+</section>
     `;
 
     document.querySelector('header').insertAdjacentHTML("afterend", sectionHTML);

@@ -1,12 +1,40 @@
-#menu-principal nav{
+#menu-principal nav {
     background-color: #2d20df;
     height: 5rem;
 }
 
-#menu-principal a{
+#menu-principal a {
     color: #F9F9F9;
 }
 
 .dropdown-item {
     color: #3d3d3d;
+}
+
+/* Cards e informativos */
+.cards-e-infomativos-geral {
+    display: flex;
+    width: 100%;
+    gap: 25px;
+}
+
+.card {
+    width: 22rem;
+    height: 8rem;
+    flex-grow: 50;
+}
+
+.card:hover {
+    scale: 1.03;
+    transition: 0.30s;
+}
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.informativo-e-institucional {
+    width: 70rem;
 }
